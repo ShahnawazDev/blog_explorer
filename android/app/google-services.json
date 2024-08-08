@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298102947132",
+    "project_id": "blog-explorer-8acfc",
+    "storage_bucket": "blog-explorer-8acfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298102947132:android:2e433bc9b059203f0b3239",
+        "android_client_info": {
+          "package_name": "dev.shahnawaz.blog_explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySuzLq8xF7a7xYCDmeX7GmSVUsKgg6Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
